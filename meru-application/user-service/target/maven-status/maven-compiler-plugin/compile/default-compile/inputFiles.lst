@@ -1,0 +1,11 @@
+B:\Meru Application\meru-application\user-service\src\main\java\com\meru\userService\entity\Address.java
+B:\Meru Application\meru-application\user-service\src\main\java\com\meru\userService\MeruApplicationUserService.java
+B:\Meru Application\meru-application\user-service\src\main\java\com\meru\userService\exception\ExceptionResponse.java
+B:\Meru Application\meru-application\user-service\src\main\java\com\meru\userService\service\UserService.java
+B:\Meru Application\meru-application\user-service\src\main\java\com\meru\userService\exception\CustomizedResponseEntityExceptionHandler.java
+B:\Meru Application\meru-application\user-service\src\main\java\com\meru\userService\controller\UserController.java
+B:\Meru Application\meru-application\user-service\src\main\java\com\meru\userService\entity\User.java
+B:\Meru Application\meru-application\user-service\src\main\java\com\meru\userService\repository\UserRepository.java
+B:\Meru Application\meru-application\user-service\src\main\java\com\meru\userService\exception\UserNotFoundException.java
+B:\Meru Application\meru-application\user-service\src\main\java\com\meru\userService\dao\UserDAO.java
+B:\Meru Application\meru-application\user-service\src\main\java\com\meru\userService\dao\UserDAOImpl.java

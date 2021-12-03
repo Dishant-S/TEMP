@@ -1,0 +1,28 @@
+server:
+  port: 8093
+ 
+spring:
+  cloud:
+    config:
+      uri: http://localhost:8888/
+  application:
+    name: catalogue-service 
+  profiles:
+    active: prod
+  
+eureka:
+  instance:
+    hostname: localhost
+  client:
+    register-with-eureka: true
+    fetch-registry: true
+  
+management:
+  endpoints:
+    web:
+      exposure:
+        include: '*'
+  endpoint:
+    health:
+      show-details: ALWAYS
+  
